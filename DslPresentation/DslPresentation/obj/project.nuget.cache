@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kA90aL+C8fCND6waNOMOF/H1PqAA4O3ETVXRt7QZJEm87Yvm2prsjJabLJfeOxxWpoPyqwt+ugSaGC1sJPwgdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebas\\RiderProjects\\DslPresentation\\DslPresentation\\DslPresentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\antlr4.runtime.standard\\4.10.1\\antlr4.runtime.standard.4.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+GET email, stockName
+THEN SEND_EMAIL
+(
+"Hey {email},
+Thank you for your purchase of {stockName}, we are so happy to have you as our customer"
+)
+
+END
